@@ -1,0 +1,36 @@
+{
+  "name": "html-utf8",
+  "version": "1.0.0",
+  "description": "Transform non-UTF8 characters to their HTML equivalent",
+  "main": "index.js",
+  "bin": {
+    "html-utf8": "bin/html-utf8.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "commander": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogermiranda1000/html-utf8.git"
+  },
+  "keywords": [
+    "html",
+    "utf-8",
+    "utf8",
+    "iso-8859-1",
+    "html-utf8"
+  ],
+  "author": "Roger Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rogermiranda1000/html-utf8/issues"
+  },
+  "homepage": "https://github.com/rogermiranda1000/html-utf8#readme"
+}
